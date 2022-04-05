@@ -1,0 +1,56 @@
+#navbar {
+background: #ffffff;
+}
+
+#right-bar{
+float: right;
+padding: 2px;
+}
+
+#bt1{
+background-color: #8b0000;
+padding: 2px;
+margin: 2px;
+margin-left: 6px;
+}
+
+#bt2{
+background-color: #8b0000;
+padding: 2px;
+margin: 2px;
+}
+button{
+	font-weight: bold;
+}
+
+a{
+    color: #ffffff;
+}
+
+body{
+background-color: bisque;
+font-family: sans-serif;
+font-weight: bold;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+p{
+    font-weight: bold;
+    color: aliceblue;
+}
+
+ul li{
+font-weight: bold;
+color: #000000;
+}
+nav{
+	font-weight: bold;
+color: #000000;
+}
+
+@media (max-width){
+    
+}
